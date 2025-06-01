@@ -12,7 +12,7 @@ MAY 04, 2025
 **Details:** [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
-![[../images/GutKingdom_main.png]]
+![GutKingdom](../images/GutKingdom_main.png)
 Beneath the silent soil, the kingdoms awaken. 
 
 Welcome to a world where unseen lives kindle the first light of the day.
@@ -164,7 +164,7 @@ She smiles faintly.
 
 <!-- Optional disclaimer -->
 <!-- _Note: This is a character message from the world of “Gutto Kingdom.” Support is always welcome, but entirely optional._ -->
-![[../images/Gut_Kingdom_Lacto.png]]
+![Lacto](../images/Gut_Kingdom_Lacto.png)
 
 ---
 
