@@ -17,7 +17,7 @@
 ファンタジーで描く、ちょっと不思議な腸内の世界へようこそ。
 
 ---
-![[../images/GutKingdom_main.png]]
+![GutKingdom](../images/GutKingdom_main.png)
 
 発酵の音がする。  
 それは、健康な腸内にだけ響く、静かで確かな営み。  
@@ -131,7 +131,8 @@
 読むだけで、もちろん大歓迎。
 一緒に、ゆっくり火を灯していきましょう。
 -->
-![[../images/Gut_Kingdom_Lacto.png]]
+![Lacto](../images/Gut_Kingdom_Lacto.png)
+
 
 ---
 ## Author: 彩葉（AYA Rowan）
